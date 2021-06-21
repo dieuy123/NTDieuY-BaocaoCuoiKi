@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\PagedList.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\PagedList.xml
+C:\Users\DELL\source\repos\NguyenThiDieuY_1\ModelEF\bin\Debug\PagedList.Mvc.xml
